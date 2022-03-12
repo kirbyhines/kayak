@@ -1,7 +1,7 @@
 /** @format */
 
 import React from 'react';
-import logo from '../Logo.svg';
+import logo from '../logo.svg';
 
 function Logo() {
   return (
